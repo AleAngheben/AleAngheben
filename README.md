@@ -6,7 +6,7 @@ and I recently completed a full-stack developer course at Epicode.
 I have a strong passion for learning and staying updated on programming trends
 and technologies.
 
-🎈 My hobbies
+🎈 My hobbies: </br>
 During my free time, I enjoy watching movies, playing video games,
 and watching football matches. These activities not only provide relaxation
 but also inspire me creatively and allow me to unwind after a productive day of coding.
