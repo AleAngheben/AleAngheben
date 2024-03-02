@@ -1,25 +1,12 @@
 ### Hi there 👋
 
-💫 About Me:
-My name is Alessandro Angheben,
-and I recently completed a full-stack developer course at Epicode.
-I have a strong passion for learning and staying updated on programming trends
-and technologies.
+# 💫 About Me:
+💫 My name is Alessandro Angheben,<br>and I recently completed a full-stack developer course at Epicode.<br>I have a strong passion for learning and staying updated on programming trends<br>and technologies.<br><br>🎈 During my free time, I enjoy watching movies, playing video games,<br>and watching football matches. These activities not only provide relaxation<br>but also inspire me creatively and allow me to unwind after a productive day of coding.<br><br>🌱 I am excited about the opportunities in the field of programming<br>and am eager to contribute my skills and knowledge to innovative projects.<br>Thank you for taking the time to learn a bit about me. I look forward to connecting<br>and collaborating with all of you.
 
-🎈 My hobbies: </br>
-During my free time, I enjoy watching movies, playing video games,
-and watching football matches. These activities not only provide relaxation
-but also inspire me creatively and allow me to unwind after a productive day of coding.
 
-🌱  Future:
-I am excited about the opportunities in the field of programming
-and am eager to contribute my skills and knowledge to innovative projects.
-Thank you for taking the time to learn a bit about me. I look forward to connecting
-and collaborating with all of you.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pacohaze) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandro-angheben-developer) 
 
-🌐 Socials:
-Discord -> pacohaze
-LinkedIn -> https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-💻 Tech Stack:
-Java HTML5 CSS3 TypeScript JavaScript Angular Bootstrap JWT jQuery Spring SASS Apache Maven Postgres Canva Figma Postman Swagger Trello
