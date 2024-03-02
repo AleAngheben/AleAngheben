@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-💫 My name is Alessandro Angheben,<br>and I recently completed a full-stack developer course at Epicode.<br>I have a strong passion for learning and staying updated on programming trends<br>and technologies.<br><br>🎈 During my free time, I enjoy watching movies, playing video games,<br>and watching football matches. These activities not only provide relaxation<br>but also inspire me creatively and allow me to unwind after a productive day of coding.<br><br>🌱 I am excited about the opportunities in the field of programming<br>and am eager to contribute my skills and knowledge to innovative projects.<br>Thank you for taking the time to learn a bit about me. I look forward to connecting<br>and collaborating with all of you.
+📚 My name is Alessandro Angheben,<br>and I recently completed a full-stack developer course at Epicode.<br>I have a strong passion for learning and staying updated on programming trends<br>and technologies.<br><br>🎈 During my free time, I enjoy watching movies, playing video games,<br>and watching football matches. These activities not only provide relaxation<br>but also inspire me creatively and allow me to unwind after a productive day of coding.<br><br>🌱 I am excited about the opportunities in the field of programming<br>and am eager to contribute my skills and knowledge to innovative projects.<br>Thank you for taking the time to learn a bit about me. I look forward to connecting<br>and collaborating with all of you.
 
 
 ## 🌐 Socials:
